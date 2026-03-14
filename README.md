@@ -1,12 +1,26 @@
 # 📚 Site de Livros
 
-Este projeto é um **site de apresentação de livros**, desenvolvido para praticar conceitos de **desenvolvimento web com HTML, CSS e JavaScript**.
+![HTML](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Style-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-yellow?logo=javascript)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
-O objetivo do projeto é criar uma página web organizada e visualmente agradável para exibir livros, informações sobre eles e demonstrar habilidades em **estruturação de páginas e estilização com CSS**.
+Projeto desenvolvido para praticar **desenvolvimento web front-end**, com foco na criação de uma interface organizada para exibição de livros.
+
+Este site apresenta livros em formato de **cards**, utilizando HTML para estrutura, CSS para design e JavaScript para possíveis interações.
 
 ---
 
-# 💻 Tecnologias Utilizadas
+# 🌐 Demonstração do Projeto
+
+### 🖥️ Preview do site
+
+<img src="imagens/site-livros-preview.png" alt="Preview do Site de Livros" width="800">
+
+
+---
+
+# 🚀 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando:
 
@@ -20,8 +34,6 @@ Este projeto foi desenvolvido utilizando:
 
 # 📂 Estrutura do Projeto
 
-O projeto é composto pelos seguintes arquivos principais:
-
 ```
 site-livros
 │
@@ -32,18 +44,58 @@ site-livros
 └── README.md
 ```
 
-* **index.html** → Estrutura principal da página
-* **style.css** → Estilização do layout e design do site
-* **script.js** → Funcionalidades e interações da página
-* **imagens/** → Imagens dos livros utilizadas no site
+**Descrição dos arquivos**
+
+* **index.html** → Estrutura da página
+* **style.css** → Estilização e layout
+* **script.js** → Interações da página
+* **imagens/** → Imagens dos livros e do site
 
 ---
 
-# 📖 Funcionalidades do Site
+# 📖 Funcionalidades
 
-O site apresenta algumas funcionalidades básicas, como:
+✔ Exibição de livros em formato de cards
+✔ Layout organizado e responsivo
+✔ Estrutura HTML semântica
+✔ Estilização moderna com CSS
 
-* Exibição de livros em formato de cards
-* Informações sobre os livros
-* Layout organizado e responsivo
-* Estilização moderna com CSS
+---
+
+# 🎯 Objetivo do Projeto
+
+Este projeto foi criado para:
+
+* Praticar **HTML e CSS**
+* Aprender organização de projetos web
+* Melhorar habilidades em **front-end**
+* Construir projetos para **portfólio**
+
+---
+
+# 🔮 Melhorias Futuras
+
+Algumas melhorias planejadas para o projeto:
+
+* 🔎 Sistema de busca de livros
+* 📚 Filtro por categorias
+* ⭐ Sistema de avaliação de livros
+* 👤 Sistema de login de usuários
+* 🗄 Integração com banco de dados
+
+---
+
+# 👩‍💻 Desenvolvido por
+
+**Samara Rennys Souza Paiva**
+Estudante de Engenharia de Software | Desenvolvedora Full Stack em formação
+
+🔗 GitHub
+https://github.com/Sahsr
+
+🔗 LinkedIn
+https://www.linkedin.com/in/samara-rennys-souza-paiva
+
+---
+
+⭐ Se você gostou do projeto, considere dar uma **estrela no repositório**!
