@@ -15,7 +15,7 @@ Este site apresenta livros em formato de **cards**, utilizando HTML para estrutu
 
 ### 🖥️ Preview do site
 
-<img src="imagens/site-livros-preview.png" alt="Preview do Site de Livros" width="800">
+<img src="site-livros-preview.png" alt="Preview do Site de Livros" width="800">
 
 
 ---
