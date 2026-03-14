@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diário de Leituras da Samara</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>📚 Diário de Leituras da Samara</h1>
+        <p>Compartilhe suas leituras e notas favoritas!</p>
+        <button id="modoBtn">🌙 Modo Escuro</button>
+    </header>
+
+    <main>
+        <section id="livros-lista">
+            <h2>Meus Livros</h2>
+            <ul id="lista"></ul>
+        </section>
+
+        <section id="adicionar-livro">
+            <h2>Adicionar Novo Livro</h2>
+            <input type="text" id="titulo" placeholder="Título do livro">
+            <input type="number" id="nota" placeholder="Nota (0 a 5)" min="0" max="5">
+            <textarea id="comentario" placeholder="Comentário"></textarea>
+            <input type="text" id="capa" placeholder="Link da imagem da capa (URL)">
+            <button id="btnAdicionar">Adicionar</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>💗 Criado com carinho por Samara Rennes Souza Paiva</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
